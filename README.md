@@ -19,6 +19,24 @@ Não tenha a expectativa de sair da oficina sendo _expert_ na abordagem de teste
 ### Técnica
 [Test Driven Development](https://pt.wikipedia.org/wiki/Test-driven_development)
 
+### _Mise en place_
+
+Execute os seguintes comandos:
+```
+git clone [this repo]
+cd src/
+npm install
+```
+
+Para rodar os testes
+```
+npm run test 
+```
+Ou:
+```
+npm run watch
+```
+
 ### Ingredientes:
 
 - JavaScript
