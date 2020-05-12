@@ -18,6 +18,8 @@ Não tenha a expectativa de sair da oficina sendo _expert_ na abordagem de teste
 
 ### Técnica
 [Test Driven Development](https://pt.wikipedia.org/wiki/Test-driven_development)
+> 💡Esta oficina vai cobrir especificamente a *base* da pirâmide de testes. Se você ainda não teve contato com esta abordagem, [este artigo](https://martinfowler.com/articles/practical-test-pyramid.html) 🇬🇧
+tem uma excelente explicação sobre este assunto
 
 ### _Mise en place_
 
