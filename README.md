@@ -7,7 +7,7 @@ Este repositório não tem todas as respostas para fazer isso. Mas pode te ajuda
 
 Tenha em mente que esta oficina vai demonstrar como preparar uma receita básica. Assim como o ato de cozinhar e preparar alimentos, a prática leva a excelência. 
 
-Não tenha a expectativa de sair da oficina sendo _expert_ na abordagem de testes, mas tente sair motivada a incorporar esta pratica no seu dia a dia.
+⚠️**Por favor: não tenha a expectativa de sair da oficina sendo _expert_ na abordagem de testes, mas tente sair motivada a incorporar esta pratica no seu dia a dia.**
 
 ### Receitas do dia:
 - 🍠 Batatas rústicas com molho de _FizzBuzz_
