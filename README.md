@@ -21,6 +21,13 @@ Não tenha a expectativa de sair da oficina sendo _expert_ na abordagem de teste
 > 💡Esta oficina vai cobrir especificamente a *base* da pirâmide de testes. Se você ainda não teve contato com esta abordagem, [este artigo](https://martinfowler.com/articles/practical-test-pyramid.html) 🇬🇧
 tem uma excelente explicação sobre este assunto
 
+
+### Ingredientes:
+
+- JavaScript
+- [Jest](https://jestjs.io/en/)
+- [Dicas do Jest a gosto](https://devhints.io/jest)
+
 ### _Mise en place_
 
 Execute os seguintes comandos:
@@ -38,12 +45,6 @@ Ou:
 ```
 npm run watch
 ```
-
-### Ingredientes:
-
-- JavaScript
-- [Jest](https://jestjs.io/en/)
-- [Dicas do Jest a gosto](https://devhints.io/jest)
 
 
 ### Referências
